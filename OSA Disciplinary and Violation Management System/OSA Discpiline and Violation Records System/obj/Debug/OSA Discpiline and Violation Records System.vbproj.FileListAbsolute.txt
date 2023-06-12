@@ -1,0 +1,5 @@
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\bin\Debug\OSA Discpiline and Violation Records System.exe
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\bin\Debug\OSA Discpiline and Violation Records System.pdb
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\obj\Debug\OSA Discpiline and Violation Records System.vbprojResolveAssemblyReference.cache
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\obj\Debug\OSA Discpiline and Violation Records System.exe
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\obj\Debug\OSA Discpiline and Violation Records System.pdb

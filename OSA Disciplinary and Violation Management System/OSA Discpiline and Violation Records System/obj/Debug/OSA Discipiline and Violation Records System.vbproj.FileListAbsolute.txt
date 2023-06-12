@@ -1,0 +1,7 @@
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\bin\Debug\OSA Discipiline and Violation Records System.exe
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\bin\Debug\OSA Discipiline and Violation Records System.pdb
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\obj\Debug\OSA Discipiline and Violation Records System.vbprojResolveAssemblyReference.cache
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\obj\Debug\OSA_Discpiline_and_Violation_Records_System.LoginForm.resources
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\obj\Debug\OSA Discipiline and Violation Records System.vbproj.GenerateResource.Cache
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\obj\Debug\OSA Discipiline and Violation Records System.exe
+D:\RDBMSSSSSSSSSSSSSSSSSS\OSA Discpiline and Violation Records System\OSA Discpiline and Violation Records System\obj\Debug\OSA Discipiline and Violation Records System.pdb
